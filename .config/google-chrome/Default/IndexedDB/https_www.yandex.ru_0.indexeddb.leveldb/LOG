@@ -1,0 +1,8 @@
+2021/02/23-21:11:15.249 117c Reusing MANIFEST /home/ubuntu18/.config/google-chrome/Default/IndexedDB/https_www.yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/23-21:11:15.249 117c Recovering log #7
+2021/02/23-21:11:15.250 117c Reusing old log /home/ubuntu18/.config/google-chrome/Default/IndexedDB/https_www.yandex.ru_0.indexeddb.leveldb/000007.log 
+2021/02/23-21:11:35.201 102c Level-0 table #11: started
+2021/02/23-21:11:35.201 102c Level-0 table #11: 0 bytes OK
+2021/02/23-21:11:35.203 102c Delete type=0 #7
+2021/02/23-21:11:35.203 102c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/23-21:11:35.203 102c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,40 @@
+{
+   "checksum": "fa6398260a9c9c6bfc3b504729f4b5cb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13258563210707371",
+            "guid": "8ddf6e6e-b711-46b5-98b7-449f73162c72",
+            "id": "5",
+            "name": "Быстрая установка для разработчиков (командная строка) | Drupal.org",
+            "type": "url",
+            "url": "https://www.drupal.org/documentation/install/developers"
+         } ],
+         "date_added": "13258562776894864",
+         "date_modified": "13258563210707371",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13258562776894868",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13258562776894870",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Моб. закладки",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

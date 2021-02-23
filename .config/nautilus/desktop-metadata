@@ -1,0 +1,24 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1614082064
+nautilus-desktop-icon-size=48
+
+[trash]
+nautilus-icon-position-timestamp=1614082064
+nautilus-icon-position=56,26
+icon-scale=1
+
+[CDROM.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1614082064
+
+[Ubuntu 18.04.5 LTS amd64.volume]
+nautilus-icon-position=56,266
+icon-scale=1
+nautilus-icon-position-timestamp=1614082064
+
+[Диск Дискета.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1614002664
